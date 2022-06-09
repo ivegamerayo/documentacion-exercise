@@ -1,3 +1,6 @@
+# Ejercicio de Git para la asignatura de Despliegues de Aplicaciones Web
+
+
 - [x] Crea un repositorio en GITHUB 
 
 - [x] Crea una clase calculadora en java utilizando netbeans o eclipse y otra clase calculadora en PHP , la clase debe tener una función suma, resta, multiplicación y división. En la clase división se debe controlar las excepciones de las divisiones por 0. 
